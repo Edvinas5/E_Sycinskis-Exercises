@@ -1,0 +1,1 @@
+alert.window("I'm external JavaScript!")
