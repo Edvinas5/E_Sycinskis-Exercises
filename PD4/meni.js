@@ -7,7 +7,7 @@ petAge ="3"
 console.log("Pet's name " +patName);
 console.log("pet's Age " +petAge)
 
-patName(Edvin)
+patName(Edvin_Syč)
 patAge(8)
 
 const buildingAddress = "Trinapolio 2"
